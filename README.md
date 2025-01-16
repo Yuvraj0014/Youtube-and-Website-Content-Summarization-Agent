@@ -1,3 +1,13 @@
+---
+title: "LangChain: Summarize Text From YT or Website"
+emoji: "🌟"
+colorFrom: "blue"
+colorTo: "red"
+sdk: "streamlit"
+app_file: "app.py"
+pinned: false
+---
+
 # 🥜 LangChain: Summarize Text From YT or Website
 
 ## 🌟 Introduction
