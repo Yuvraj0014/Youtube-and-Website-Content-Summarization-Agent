@@ -52,13 +52,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Results
-Too lazy to adult today? Join the club! Ditch the to-do list and dive into the Streamlight app instead. It's right here, waiting for you!
-```
-youtube-and-website-content-summarization-agent.streamlit.app
-
-```
-
 ## 📱 Usage
 
 1. 🔑 Enter your Groq API key in the sidebar.
